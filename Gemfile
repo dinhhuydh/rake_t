@@ -14,5 +14,5 @@ gem "jquery-rails"
 # your gem to rubygems.org.
 
 # To use debugger
-gem 'debugger'
-gem 'selenium-webdriver'
+#gem 'debugger'
+#gem 'selenium-webdriver'
