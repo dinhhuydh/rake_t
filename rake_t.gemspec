@@ -7,11 +7,11 @@ require "rake_t/version"
 Gem::Specification.new do |s|
   s.name        = "rake_t"
   s.version     = RakeT::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RakeT."
-  s.description = "TODO: Description of RakeT."
+  s.authors     = ["Huy Dinh"]
+  s.email       = ["dinhhuydh@gmail.com"]
+  s.homepage    = "https://github.com/dinhhuydh"
+  s.summary     = "List and run rake tasks on browser"
+  s.description = "List and run rake tasks on browser"
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
