@@ -14,7 +14,7 @@ Click on a task which you would like to run, it will show you the result of the 
 
 ## About
 
-The gem is inspired of the gem [sextant](https://github.com/schneems/sextant)
+The gem inspired by the gem [sextant](https://github.com/schneems/sextant)
 
 Thanks for advice from [Tien Le] (https://github.com/tienle), founder of [kiemtailieu.com](http://kiemtailieu.com)
 
