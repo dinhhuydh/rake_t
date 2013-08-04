@@ -18,4 +18,10 @@ class NavigationTest < ActiveSupport::IntegrationCase
     click_link 'about'
     assert has_content?('Ruby version')
   end
+
+  test 'show without redirect from index' do
+    visit '/rails/rake_tasks/about'
+
+    assert has_content?('Ruby version')
+  end
 end
