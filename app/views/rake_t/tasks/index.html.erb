@@ -1,1 +1,6 @@
-tasks
+<h1> Rake tasks</h1>
+
+<% @tasks.each do |task| %>
+  <%= link_to task.to_s, "/rails/rake_tasks/#{task.to_s}" %>
+  <br>
+<% end %>
