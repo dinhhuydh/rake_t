@@ -1,0 +1,25 @@
+h1 {
+  margin-left: 40px;
+}
+
+body {
+  font-family: helvetica, verdana, arial, sans-serif;
+  font-size: 13px;
+  line-height: 28px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li:nth-child(even) {
+  background: #EEE;
+}
+
+ul li:nth-child(odd) {
+  background: #FFF;
+}
+
+ul li {
+  height: 30px;
+}
