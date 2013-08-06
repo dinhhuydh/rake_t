@@ -6,6 +6,11 @@
 ## Install
 
 Add this to the development group in your Gemfile
+```ruby
+group :development do
+  gem 'rake_t'
+end
+```
 
 ## Usage
 
