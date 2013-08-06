@@ -1,5 +1,5 @@
 require 'rake_t/engine'
-require 'rails/routes'
+require 'rails/rake_t'
 require 'rake'
 
 module RakeT
